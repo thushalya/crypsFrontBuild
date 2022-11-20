@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f57b9da2.css",
+    "main.js": "/static/js/main.629fd278.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/mobile.png": "/static/media/mobile.1dbd0ac6e76f1d274c0a.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/stockMain.jpg": "/static/media/stockMain.3cffd2120af40cdc09ca.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "service-worker.js": "/service-worker.js",
+    "static/media/default_image.png": "/static/media/default_image.06a923aeef151452e5c8.png",
+    "static/media/Logo.png": "/static/media/Logo.f27472c09ae408fdba41.png",
+    "static/media/cryptonMain.jpg": "/static/media/cryptonMain.df3ad91d3121fce8e478.jpg",
+    "static/media/NVDA.png": "/static/media/NVDA.22b55d9ea9b51906cbd1.png",
+    "static/media/AAPL.png": "/static/media/AAPL.eba5923bbf116d700b68.png",
+    "static/media/solana.png": "/static/media/solana.aa79f433fdaec98ca991.png",
+    "static/media/FB.png": "/static/media/FB.d6ef173a6f6fd667614f.png",
+    "static/media/stock2.png": "/static/media/stock2.8a3be757f7a4052c53e7.png",
+    "static/media/BABA.png": "/static/media/BABA.4dfde14141627c0fcd96.png",
+    "static/media/stock1.png": "/static/media/stock1.e4d730ab9b33f6ac868d.png",
+    "static/media/customize.png": "/static/media/customize.2891ee2d639847b24c43.png",
+    "static/media/indicator.svg": "/static/media/indicator.64888cc2ab2b01edf8edacbfd8e07d5c.svg",
+    "static/media/candleStick.svg": "/static/media/candleStick.1a81233b5e8cf153607be7ef339ac994.svg",
+    "index.html": "/index.html",
+    "static/media/line.svg": "/static/media/line.909c0498093cfe6ff378a812e144193a.svg",
+    "static/media/bar.svg": "/static/media/bar.47e747bd91eb1cc649f5151b65b62383.svg",
+    "static/media/candles.svg": "/static/media/candles.c625835011e83ee5e8f910ddd115d9bf.svg",
+    "main.f57b9da2.css.map": "/static/css/main.f57b9da2.css.map",
+    "main.629fd278.js.map": "/static/js/main.629fd278.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f57b9da2.css",
+    "static/js/main.629fd278.js"
+  ]
+}
